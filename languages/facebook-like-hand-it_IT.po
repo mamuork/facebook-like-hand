@@ -1,0 +1,66 @@
+# Copyright (C) 2013 TODO
+# This file is distributed under the same license as the TODO package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TODO 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/plugin-name\n"
+"POT-Creation-Date: 2013-11-08 19:10+0100\n"
+"PO-Revision-Date: 2013-11-08 19:11+0100\n"
+"Last-Translator: Mamuork <mamuork@gmail.com>\n"
+"Language-Team: LANGUAGE <translations@example.com >\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-facebook-like-hand-admin.php:163
+msgid "Facebook Like Hand Settings"
+msgstr "Facebook Like Hand settaggi"
+
+#: admin/class-facebook-like-hand-admin.php:164
+msgid "Facebook Like Hand"
+msgstr "Facebook Like Hand"
+
+#: admin/class-facebook-like-hand-admin.php:190
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: admin/views/admin.php:31
+msgid "Facebook Fan Page URL"
+msgstr "URL della Pagina Fan Facebook"
+
+#: admin/views/admin.php:35
+msgid "If you haven't a fanpage, you can use your website."
+msgstr "Se non hai una pagina fan, puoi utilizzare l'url del tuo sito web."
+
+#: admin/views/admin.php:40
+msgid "Hand size"
+msgstr "Dimensione mano"
+
+#: admin/views/admin.php:53
+msgid "Where do you want to show popup?"
+msgstr "Dove vuoi mostrare la popup?"
+
+#: admin/views/admin.php:68 ver-1.0/ma-license.plugin.php:76
+msgid "Save Changes"
+msgstr "Salva impostazioni"
+
+#: public/views/public.php:20 public/views/public.php:21
+msgid "Close Popup"
+msgstr "Chiudi Popup"
+
+#: public/views/public.php:25
+msgid "Please like it!"
+msgstr "Clicca su \"Mi piace\"!"
+
+#: public/views/public.php:27
+msgid "Follow us on Facebook"
+msgstr "Seguici su Facebook"
+
+#~ msgid "Website URL"
+#~ msgstr "Sito web"

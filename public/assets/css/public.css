@@ -1,0 +1,93 @@
+/* Facebook Like Hand - Wordpres Plugin */
+
+/* --- BIG VERSION ------------------------------------- */
+/* ----------------------------------------------------- */
+#flh-popup.big{
+	background: url(../img/facebook-hand-big.png) no-repeat 0 0;
+	height: 500px;
+	left: 50%;
+	margin: -250px 0 0 -250px;
+	overflow: hidden;
+	position: fixed;
+	top: 50%;
+	width: 500px;
+	z-index: 99999;
+}
+
+.big .flh-popup-close{
+	border: 0 solid #fff;
+	display: block;
+	height: 24px;
+	position: absolute;
+	right: 91px;
+	text-indent: -9999px;
+	top: 288px;
+	width: 24px;
+}
+
+.big .flh-message{
+	font-family: Arial, Tahoma, Helvetica, sans-serif;
+	font-size: 20px;
+	left: 108px;
+	line-height: 28px;
+	overflow: hidden;
+	position: absolute;
+	top: 322px;
+	width: 220px;
+}
+
+.big .flh-iframe{
+	height: 100px;
+	overflow: hidden;
+	position: absolute;
+	right: 72px;
+	top: 319px;
+	width: 100px;
+}
+
+/* --- SMALL VERSION ----------------------------------- */
+/* ----------------------------------------------------- */
+#flh-popup.small{
+	background: url(../img/facebook-hand-small.png) no-repeat 0 0;
+	height: 400px;
+	left: 50%;
+	margin: -200px 0 0 -200px;
+	overflow: hidden;
+	position: fixed;
+	top: 50%;
+	width: 400px;
+	z-index: 99999;
+}
+
+.small .flh-popup-close{
+	border: 0 solid #fff;
+	display: block;
+	height: 24px;
+	position: absolute;
+	right: 72px;
+	text-indent: -9999px;
+	top: 228px;
+	width: 24px;
+}
+
+.small .flh-message{
+	font-family: Arial, Tahoma, Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	left: 90px;
+	line-height: 28px;
+	overflow: hidden;
+	position: absolute;
+	top: 248px;
+	width: 220px;
+}
+
+.small .flh-iframe{
+	height: 24px;
+	overflow: hidden;
+	position: absolute;
+	left: 140px;
+	top: 283px;
+	width: 125px;
+}
+
